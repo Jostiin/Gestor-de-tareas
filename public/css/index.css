@@ -1,0 +1,16 @@
+.btn_menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form_container{
+    margin: 0 7rem;
+}
+.footer_homeworks{
+    margin: 1rem 0;
+}
+.table{
+    overflow-y: scroll;
+    min-width: 10rem;
+}
+
